@@ -1,9 +1,9 @@
-# Kay Anthony Data-analyst-portfolio-
+# Kay Anthony Data analyst portfolio
 welcome to my portfolio! this repository contains data analysis projects using SQL, Tableau, Python and R
 #skills
 **languages** SQL, python and R
 **Tools** Tableau, power Bi, excel
-**techniques** data cleaning, visualization, statistical analysis
+**techniques** data cleaning, visualization, statistical analysis, machine learning (if applicable)
 #projects# 
 cycling enthusiasts analysis
 tools used SQL, Tableau
