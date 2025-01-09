@@ -11,3 +11,4 @@ key insights: weekend rides have 20% higher user engagement
 marketing campaign effectiveness
 tools used: python, R
 key insights: campaign a increased conversion rates by 15%
+google data analytics professional certificate https://github.com/KayAnthony/Data-analyst-portfolio-/blob/08457264d8fc3b80dae422a2dafd373fce3737b3/IMG_6245.jpeg
