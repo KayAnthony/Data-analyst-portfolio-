@@ -12,3 +12,4 @@ marketing campaign effectiveness
 tools used: python, R
 key insights: campaign a increased conversion rates by 15%
 google data analytics professional certificate https://github.com/KayAnthony/Data-analyst-portfolio-/blob/08457264d8fc3b80dae422a2dafd373fce3737b3/IMG_6245.jpeg
+''add share through the art of data visualization'' googl certificate https://github.com/KayAnthony/Data-analyst-portfolio-/blob/0438839b72aef907b4ebfb620da01d283412a24c/IMG_6246.jpeg
